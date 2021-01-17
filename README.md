@@ -12,7 +12,7 @@ The project contains the following classes together with the corresponding test 
 
 - *StatisticUtilsArray.java*, which provides a set of statistical values for an array of double values.
   1. The statistical metrics implemented are the following: minimum, maximum, median, mean and standard deviation.
-  2. All metrices were implementing using the [commons-math3](http://commons.apache.org/proper/commons-math/javadocs/api-3.6.1/index.html) library
+  2. All metrics were implementing using the [commons-math3](http://commons.apache.org/proper/commons-math/javadocs/api-3.6.1/index.html) library
 - *StatisticUtilsArrayList.java*, which provides the aforementioned statistical values for an array list of double values.
 - *AscendingMinima.java*, which implements the Ascending Minima algorithm for an array of doubles and a sliding window k
 - *StatisticUtilsArrayListGenerics.java*, which provides the aforementioned statistical values for an array list for all numerical types
