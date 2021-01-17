@@ -10,13 +10,13 @@ Net2GridEvaluationTest is a maven project created in the context of the intervie
 
 The project contains the following classes together with the corresponding test classes:
 
-1. *StatisticUtilsArray.java*, which provides a set of statistical values for an array of double values.
-  - The statistical metrics implemented are the following: minimum, maximum, median, mean and standard deviation.
-  - All metrices were implementing using the [commons-math3](http://commons.apache.org/proper/commons-math/javadocs/api-3.6.1/index.html) library
-2. *StatisticUtilsArrayList.java*, which provides the aforementioned statistical values for an array list of double values.
-3. *AscendingMinima.java*, which implements the Ascending Minima algorithm for an array of doubles and a sliding window k
-4. *StatisticUtilsArrayListGenerics.java*, which provides the aforementioned statistical values for an array list for all numerical types
-5. *StatisticUtilsArrayStreams.java*, which provides the aforementioned statical values for an array of doubles using Java Streams for its implementation.
+- *StatisticUtilsArray.java*, which provides a set of statistical values for an array of double values.
+  1. The statistical metrics implemented are the following: minimum, maximum, median, mean and standard deviation.
+  2. All metrices were implementing using the [commons-math3](http://commons.apache.org/proper/commons-math/javadocs/api-3.6.1/index.html) library
+- *StatisticUtilsArrayList.java*, which provides the aforementioned statistical values for an array list of double values.
+- *AscendingMinima.java*, which implements the Ascending Minima algorithm for an array of doubles and a sliding window k
+- *StatisticUtilsArrayListGenerics.java*, which provides the aforementioned statistical values for an array list for all numerical types
+- *StatisticUtilsArrayStreams.java*, which provides the aforementioned statical values for an array of doubles using Java Streams for its implementation.
 
 ## Technologies
 
