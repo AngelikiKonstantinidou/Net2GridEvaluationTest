@@ -20,13 +20,13 @@ The project contains the following classes together with the corresponding test 
 
 ## Technologies
 
-The technologies used for the implementation of the assignment is the following
+The technologies used for the implementation of the assignment are the following:
 - Programming Language: Java, Version: 15
 - Maven, Version 3.6.3
 - Testing Tool: JUnit, Version: 5
 
 ## Setup
 
-The setup for the implementation of the assignment is the following:
+The setup for the implementation of the assignment was the following:
 1. Integrated Development Environment: JetBrains IntelliJ, Version: 2020.3
 2. Git Framework: GitKraken, Version: 7.4.1
